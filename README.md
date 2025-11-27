@@ -107,7 +107,9 @@ Sprite size: 14x14px
 ```
 
 ## Version and compilation details
+
 **Python**: 3.12.3
+
 **PIP**: 
 altgraph                  0.17.4
 Faker                     37.12.0

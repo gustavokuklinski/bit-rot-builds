@@ -2,17 +2,17 @@
 
 ## Summary
 
-* (Download)[##-Download]
-* (Game Requirements)[##-Game-requirements]
-* (For linux)[##-For-linux]
-* (Game Controls)[##-Game-controls]
-* (For modding and mapping)[##-For-modding-and-mapping]
-* (Version and compilation details)[##-Version-and-compilation-details]
+* [Download](##-Download)
+* [Game Requirements](##-Game-requirements)
+* [For linux](##-For-linux)
+* [Game Controls](##-Game-controls)
+* [For modding and mapping](##-For-modding-and-mapping)
+* [Version and compilation details](##-Version-and-compilation-details)
 
 ## Download
 **Build only avaiable for Linux**
 
-[FREE DOWNLOAD]() (without source code)
+[FREE DOWNLOAD](https://github.com/gustavokuklinski/bit-rot-builds/archive/refs/heads/main.zip) (without source code)
 
 [BUY ON ITCH](https://gustavokuklinski.itch.io/bit-rot) (with source code)
 

@@ -19,6 +19,7 @@
 **Help the developer**
 
 [DONATIONS](https://ko-fi.com/gustavokuklinski) (ko-fi)
+
 _Donations up to 5 USD can request a copy of the game with source code_
 
 ## Game requirements
